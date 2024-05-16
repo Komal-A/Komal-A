@@ -23,7 +23,7 @@ Let's Connect Thanks for stopping by! 😊
 * 🚀  I'm currently working on [MyWebsite](https://sites.google.com/view/komal-shaheen)
 * 🧠  I'm learning Azure
 * 🤝  I'm open to collaborating on projects related to data analysis and visualisations
-* ⚡  I am also Henna Artist!
+* ⚡  I am Henna Artist!
 
 ### Skills
 
