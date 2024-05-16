@@ -1,4 +1,4 @@
-![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/Komal-A/Komal-A/assets/73076829/7101c4b0-c9c4-44dc-9c37-4822ca201b7f)
+![Beige   Black Geometric Technology LinkedIn Banner (1)](https://github.com/Komal-A/Komal-A/assets/73076829/e19ffdeb-3950-4374-871c-f6add48425d4)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Komal
 =============================================================================================================================
 
