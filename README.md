@@ -20,7 +20,7 @@ Let's Connect Thanks for stopping by! 😊
 * 🌍  I'm based in Harrow, London United Kingdom
 * 🖥️  See my portfolio at [MyPorfolio](https://sites.google.com/view/komal-shaheen)
 * ✉️  You can contact me at [komalasaf@yahoo.com](mailto:komalasaf@yahoo.com)
-* 🚀  I'm currently working on [MyWebsite](http://komalshaheenn.w3spaces.com/)
+* 🚀  I'm currently working on [MyWebsite](https://sites.google.com/view/komal-shaheen)
 * 🧠  I'm learning Azure
 * 🤝  I'm open to collaborating on projects related to data analysis and visualisations
 * ⚡  I am also Henna Artist!
