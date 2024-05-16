@@ -18,7 +18,7 @@ Connect with Me 📫 Feel free to reach out to me via komalasaf@yahoo.com or con
 Let's Connect Thanks for stopping by! 😊
 
 * 🌍  I'm based in Harrow, London United Kingdom
-* 🖥️  See my portfolio at [MyPorfolio](http://komalshaheenn.w3spaces.com/)
+* 🖥️  See my portfolio at [MyPorfolio](https://sites.google.com/view/komal-shaheen)
 * ✉️  You can contact me at [komalasaf@yahoo.com](mailto:komalasaf@yahoo.com)
 * 🚀  I'm currently working on [MyWebsite](http://komalshaheenn.w3spaces.com/)
 * 🧠  I'm learning Azure
